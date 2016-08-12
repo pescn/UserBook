@@ -1,3 +1,4 @@
-# My Awesome Book
+# 0 前言
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+首先，要恭喜你，当你看到这段文字的时候，你应该已经成功战胜了众多对手，加入了编辑部。那么，接下来就让你未来的同事
+
