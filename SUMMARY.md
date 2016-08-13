@@ -9,5 +9,6 @@
     * [1.2 Seafile客户端下载](12-seafile客户端下载.md)
     * [1.3 各平台客户端配置方法](13-windows平台客户端配置方法.md)
         * [1.3.1 Windows平台客户端配置方法](131-windows平台客户端配置方法.md)
+        * [1.3.2 Android平台客户端配置方法](132-android平台客户端配置方法.md)
 * 2 IBOS使用手册
 
